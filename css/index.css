@@ -1,0 +1,21 @@
+table tr td{
+    border: 2px solid #008000;
+    width: 800px;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 24px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.img1{
+    width: 100%;
+}
+.td1{
+    width: 400px;
+}
